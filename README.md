@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **crypto app**
 
-- 🌱 I’m currently learning **MERN Deep Learning Cloud Computing**
+- 🌱 I’m currently learning **MERN Stack and Cloud Computing**
 
 - 👯 I’m looking to collaborate on **statistical arbitrage**
 
-- 💬 Ask me about **MERN Flutter Algorithms and Data Structures**
+- 💬 Ask me about **Docker AWS MERN Flutter Algorithms and Data Structures**
 
 - 📫 How to reach me **anupchandak322@gmail.com**
 
