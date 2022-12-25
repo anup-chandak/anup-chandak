@@ -5,17 +5,17 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
-- 🔭 I’m currently working on **crypto app**
+- 🔭 I’m currently working on **recomandiation systems**
 
 - 🌱 I’m currently learning **MERN Stack and Cloud Computing**
 
-- 👯 I’m looking to collaborate on **statistical arbitrage**
+- 👯 I’m looking to collaborate on **crypto app with statistical arbitrage**
 
 - 💬 Ask me about **Docker AWS MERN Flutter Algorithms and Data Structures**
 
 - 📫 How to reach me **anupchandak322@gmail.com**
 
-- ⚡ Fun fact **I play guitar and football and love watching animes.**
+- ⚡ Fun fact **I play guitar and football and love watching animes making short movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
