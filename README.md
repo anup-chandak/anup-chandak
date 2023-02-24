@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
-- 🔭 I’m currently working on **recomandiation systems**
+- 🔭 I’m currently working on **seo**
 
 - 🌱 I’m currently learning **MERN Stack and Cloud Computing**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Docker AWS MERN Flutter Algorithms and Data Structures**
 
-- 📫 How to reach me **anupchandak322@gmail.com**
+- 📫 How to reach me **anupchandak013@gmail.com**
 
 - ⚡ Fun fact **I play guitar and football and love watching animes making short movies.**
 
