@@ -33,7 +33,7 @@
 
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandakanup&show_icons=true&locale=en" alt="chandakanup" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupchandak13&show_icons=true&locale=en" alt="anupchandak13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandakanup&" alt="chandakanup" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupchandak13&" alt="anupchandak13" /></p>
 
