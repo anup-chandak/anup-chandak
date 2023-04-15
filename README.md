@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anupchandak013@gmail.com** or https://picode13.github.io//portfolio/ also here is my resume https://resume.io/r/nvzUH4omr
 
-- ⚡ Fun fact **I play guitar and football and love watching animes making short movies.**
+- ⚡ Fun fact **I play guitar, football and love watching animes and making short movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
