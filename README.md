@@ -2,7 +2,13 @@
 <h3 align="center">A passionate fullstack web developer and machine learning enthusiastic</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/anup-chandak/anup-chandak/blob/main/68747470733a2f2f632e74656e6f722e636f6d2f77686751774e6c56764e6b41414141692f7865726f2d636f64652e676966.gif?raw=true">
+
+
+
+<!--
+//https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+-->
 
 
 - 🔭 I’m currently working on **SEO**
