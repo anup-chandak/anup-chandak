@@ -11,22 +11,15 @@
 -->
 
 
-- 🔭 I’m currently working on **SEO**
-
-- 🌱 I’m currently learning **MERN Stack and Cloud Computing**
-
-- 👯 I’m looking to collaborate on **crypto app with statistical arbitrage**
-
-- 💬 Ask me about **Docker AWS MERN Flutter Algorithms and Data Structures**
-
-- 📫 How to reach me **anupchandak013@gmail.com** or https://picode13.github.io//portfolio/ also here is my resume https://resume.io/r/nvzUH4omr
-
-- ⚡ Fun fact **I play guitar, football and love watching animes and making short movies.**
+Hello, 
+My name is Anup Chandak, I am a recent graduate from IIT Kharagpur, I specialize in building backend systems, creating efficient CI/CD pipelines, and designing AWS architectures, 
+all underpinned by robust fundamentals in OOPs, data structures, and algorithms.
+Additionally, my internships and projects have given me hands-on experience in developing optimized backends and designing cloud-native applications.
+I look forward to connecting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/anupchandak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupchandak" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anupchandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anupchandak" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/anup-chandak-2a6b602bb/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupchandak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
